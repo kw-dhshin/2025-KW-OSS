@@ -1,7 +1,7 @@
 # 2025-KW-OSS
 광운대학교 컴퓨터정보공학부 2025 오픈소스소프트웨어설계및실습
 
-### [평가파일(엑셀)양식 다운로드](/)
+### [평가파일(엑셀)양식 다운로드](https://github.com/kw-dhshin/2025-KW-OSS/blob/main/2025_OSS_Project_Peer_Review.xlsx)
 
 평가파일을 다 채운 뒤, 제출은 KLAS 과제에 하길 바랍니다.
 
